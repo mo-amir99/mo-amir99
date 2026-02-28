@@ -103,9 +103,6 @@ Qur’an • Tafsir • Adhan • Azkar • Khatma • Qibla
   <a href="https://play.google.com/store/apps/details?id=com.appyinnovate.e_invoice">
     <img src="https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
   </a>
-  <a href="https://apps.apple.com/us/app/id6502558512">
-    <img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  </a>
 </p>
 A comprehensive cross-platform POS system (Windows, Android, iOS) covering every business aspect authorized by ZATCA. Built with Flutter and SQL Server/SQLite.
 
@@ -120,11 +117,11 @@ A large-scale LMS platform built with **Flutter** and **Go**.
 
 ## 🎓 Dr Kabsha (LMS)
 <p>
-  <a href="https://apps.apple.com/us/app/id1593238063">
+  <a href="https://apps.apple.com/us/app/dr-kabsha/id6746132194">
     <img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   </a>
 </p>
-A specialized LMS featuring secure video streaming directly from a private VPS. Includes an admin panel to manage lessons, PDFs, and MCQs. Built using Flutter and Node.js.
+A specialized LMS featuring secure video streaming directly from a private VPS. Includes an admin panel to manage courses, lessons, PDFs, MCQs, and users. Built using Flutter and Node.js.
 
 ---
 
@@ -153,10 +150,10 @@ Full-stack e-commerce solution using Flutter and Node.js. Features a custom cake
 
 ## 📦 Track Origins
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.appyinnovate.track_origins">
+  <a href="https://play.google.com/store/apps/details?id=com.linkyou.proudect_tracker">
     <img src="https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
   </a>
-  <a href="https://apps.apple.com/us/app/track-origins/id6476251212">
+  <a href="https://apps.apple.com/us/app/track-origins/id6476109481">
     <img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   </a>
 </p>
@@ -166,10 +163,10 @@ Utility app that allows users to verify product origins via barcode scanning.
 
 ## 🛒 2SOOQ
 <p>
-  <a href="https://play.google.com/store/apps/details?id=com.appyinnovate.e_2sooq">
+  <a href="https://play.google.com/store/apps/details?id=com.linkyou.sooq">
     <img src="https://img.shields.io/badge/Google_Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
   </a>
-  <a href="https://apps.apple.com/us/app/2sooq/id6476142643">
+  <a href="https://apps.apple.com/us/app/2sooq/id1574532077">
     <img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   </a>
 </p>
