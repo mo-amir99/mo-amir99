@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=280&section=header&text=Mo'men%20Amir&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Systems%20Engineer%20%7C%20SaaS%20Architect&descAlignY=55&descAlign=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=280&section=header&text=Mo'men%20Amir&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Mobile%20Engineer%20%7C%20SaaS%20Architect&descAlignY=55&descAlign=60&fontColor=ffffff" width="100%" />
 </div>
 
 <p align="center">
@@ -25,9 +25,9 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -50,34 +50,34 @@
 ## 💼 Experience
 
 ### 🚀 Software Engineer — Appy Innovate (Saudi Arabia)
-[cite_start]*Feb 2024 — May 2025* [cite: 9]
-[cite_start]• Design and develop high-performance software solutions for mobile and desktop [cite: 11]
-[cite_start]• Contributed to a major POS system authorized by Zakat and Income Tax Authority (ZATCA) [cite: 12]
-[cite_start]• Built with Flutter along with SQL Server and SQLite database support [cite: 42]
+*Feb 2024 — May 2025*
+• Designed and developed high-performance POS solutions for Windows, Android, and iOS.
+• Integrated SQL Server and SQLite for robust local and remote data management.
+• Ensured compliance with Zakat and Income Tax Authority (ZATCA) standards.
 
 ### 📱 Mobile Developer — LinkYou (Canada)
-[cite_start]*Nov 2023 — May 2024* [cite: 13]
-[cite_start]• Responsible for developing and maintaining mobile applications using Flutter [cite: 15]
-[cite_start]• Built frontend from scratch using provided Figma designs [cite: 15]
-[cite_start]• Integration with backend APIs to deliver innovative mobile solutions [cite: 15, 16]
+*Nov 2023 — May 2024*
+• Developed the "Canadians Life" social platform from scratch using Flutter.
+• Transformed precise Figma designs into high-quality production code.
+• Integrated backend APIs for real-time social features like forums and videos.
 
 ### 🛠 Software Engineer — ENVAPRESS (Egypt)
-[cite_start]*Sept 2021 — Nov 2023* [cite: 17]
-[cite_start]• Developed custom applications and systems including mobile and backend [cite: 19, 20]
-[cite_start]• Optimized performance to meet client-specific requirements [cite: 20]
+*Sept 2021 — Nov 2023*
+• Contributed to the development of custom mobile and backend applications.
+• Optimized system performance to meet specific client requirements.
 
 ### 👨‍💻 Freelancer
-[cite_start]*June 2020 — Present* [cite: 21]
-[cite_start]• Delivering efficient, scalable, and high-quality solutions across various industries [cite: 22, 23]
-[cite_start]• Expertise in VPS (Linux) and Hosting Panels Management [cite: 38]
-[cite_start]• Handling app releases on Google Play Console and App Store Connect [cite: 5]
+*June 2020 — Present*
+• Delivering end-to-end scalable solutions (MVPs, SaaS, and custom software).
+• Expertise in VPS (Linux) and Hosting Panels Management.
+• Managed full app lifecycle on Google Play Console and App Store Connect.
 
 ---
 
 ## 📦 Open Source
 
 ### 📖 [quran_with_tafsir (Dart)](https://github.com/mo-amir99/quran_with_tafsir)
-Structured Qur’anic dataset for Flutter Islamic apps.
+A structured Qur’anic dataset built specifically for Flutter & Dart applications, providing high-quality text with integrated Tafsir support.
 
 ---
 
@@ -107,15 +107,14 @@ Qur’an • Tafsir • Adhan • Azkar • Khatma • Qibla
     <img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   </a>
 </p>
-[cite_start]A cross-platform POS system (Windows, Android, iOS) covering every business aspect authorized by ZATCA[cite: 42].
+A comprehensive cross-platform POS system (Windows, Android, iOS) covering every business aspect authorized by ZATCA. Built with Flutter and SQL Server/SQLite.
 
 ---
 
 ## 🎓 Elites Academy (LMS SaaS) — *In Progress*
-Comprehensive LMS platform featuring forums, lesson comments, announcements, and user management.
-• **Education:** Lesson delivery, PDFs, MCQs, and custom exams/quizzes
-• **Access:** Group-based access approach and student progress tracking
-• **Architecture:** Scalable backend built with Go and Flutter frontend
+A large-scale LMS platform built with **Flutter** and **Go**.
+• **Education:** Features forums, lesson comments, announcements, and student progress tracking.
+• **Management:** Group-based access control, custom exams, quizzes, and a complete admin dashboard.
 
 ---
 
@@ -125,7 +124,7 @@ Comprehensive LMS platform featuring forums, lesson comments, announcements, and
     <img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   </a>
 </p>
-LMS application featuring a secure video streaming service directly from a private VPS. Includes an admin panel to manage lessons, PDFs, MCQs, and users.
+A specialized LMS featuring secure video streaming directly from a private VPS. Includes an admin panel to manage lessons, PDFs, and MCQs. Built using Flutter and Node.js.
 
 ---
 
@@ -138,7 +137,7 @@ LMS application featuring a secure video streaming service directly from a priva
     <img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   </a>
 </p>
-Social media and forums app featuring posting, commenting, groups, threads, and videos[cite: 44]. Built from scratch with Flutter and integrated backend[cite: 44].
+A social hub featuring posting, commenting, groups, threads, videos, and a community marketplace. Built from scratch with Flutter.
 
 ---
 
@@ -148,7 +147,7 @@ Social media and forums app featuring posting, commenting, groups, threads, and 
     <img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   </a>
 </p>
-E-commerce application featuring a custom cake builder, categorized products, cart system, and order tracking[cite: 46]. Includes a full admin panel to control users and listings[cite: 46].
+Full-stack e-commerce solution using Flutter and Node.js. Features a custom cake builder, order tracking, and a full admin panel for user and listing management.
 
 ---
 
@@ -161,7 +160,7 @@ E-commerce application featuring a custom cake builder, categorized products, ca
     <img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   </a>
 </p>
-Barcode scanning application used to track the origin of products[cite: 50].
+Utility app that allows users to verify product origins via barcode scanning.
 
 ---
 
@@ -174,7 +173,12 @@ Barcode scanning application used to track the origin of products[cite: 50].
     <img src="https://img.shields.io/badge/App_Store-Download-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   </a>
 </p>
-Marketplace for listing and selling used items, similar to Dubizzle or OLX[cite: 52].
+A marketplace for listing and selling used items, providing a seamless user-to-user selling experience.
+
+---
+
+## 🎓 Education
+* **Bachelor in Management Information Systems** | Alexandria University (2017-2021)
 
 ---
 
